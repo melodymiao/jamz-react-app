@@ -1,0 +1,33 @@
+.navbar {
+   font-family: "Poppins", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   list-style-type: none;
+   overflow: hidden;
+   display: flex;
+   align-items: center;
+}
+
+
+.navbar li {
+   float: left;
+   display: block;
+   text-align: center;
+   padding: 16px;
+}
+
+.navbar a {
+text-decoration: none;
+color: white;
+}
+
+
+.button {
+   background-color: black;
+   border: none;
+   color: white;
+   text-align: center;
+   padding: 10px 24px;
+   cursor: pointer;
+   border-radius: 30px;
+}
